@@ -20,7 +20,23 @@ Para ejecutar este proyecto, necesitas las siguientes dependencias:
 
 Opcionalmente, puedes usar una librería como [Assimp](http://www.assimp.org/) para manejar la carga de modelos `.obj`, pero en este ejemplo se describe cómo hacerlo manualmente.
 
-## Instalación
+## Instalación y uso
+
+1. **Clona el repositorio**
+2. **En la carpeta raíz ejecutar `make` + ruta del archivo `.obj`**
+
+
+## Estructura
+.
+├── include/                    # Incluir archivos como GLAD, GLFW, GLM
+├── shaders/                    # Shaders para el renderizado (vertex y fragment shaders)
+│   ├── vertex_shader.glsl      # Vertex shader
+│   └── fragment_shader.glsl    # Fragment shader
+├── models/                     # Modelos .obj
+│   └── cube.obj                # Ejemplo de un modelo .obj
+├── src/                        # Código fuente
+│   └── main.cpp                # Archivo principal del programa
+└── README.md                   # Archivo README con la documentación
 
 
 ![OpenGL Logo](https://www.opengl.org/img/opengl_logo.jpg)
