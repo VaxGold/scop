@@ -22,7 +22,7 @@ Opcionalmente, puedes usar una librería como [Assimp](http://www.assimp.org/) p
 
 ## Instalación y uso
 
-1. **Clona el repositorio**
+1. **Clonar el repositorio**
 2. **En la carpeta raíz ejecutar `make` + ruta del archivo `.obj`**
 
 
