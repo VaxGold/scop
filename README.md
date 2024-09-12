@@ -26,8 +26,9 @@ Opcionalmente, puedes usar una librería como [Assimp](http://www.assimp.org/) p
 2. **En la carpeta raíz ejecutar `make` + ruta del archivo `.obj`**
 
 
-## 
+##
 
 <p align="center">
   <img src="https://www.opengl.org/img/opengl_logo.jpg" alt="OpenGL Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="OpenGL Logo" width="200"/>
 </p>
