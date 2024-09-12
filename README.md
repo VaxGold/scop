@@ -28,4 +28,6 @@ Opcionalmente, puedes usar una librería como [Assimp](http://www.assimp.org/) p
 
 ## 
 
-![OpenGL Logo](https://www.opengl.org/img/opengl_logo.jpg)
+<p align="center">
+  <img src="https://www.opengl.org/img/opengl_logo.jpg" alt="OpenGL Logo" width="200"/>
+</p>
