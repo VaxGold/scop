@@ -29,6 +29,6 @@ Opcionalmente, puedes usar una librería como [Assimp](http://www.assimp.org/) p
 ##
 
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/1014/68/png-transparent-opengl-es-khronos-group-webgl-vulkan-2-joints-logo-blue-3d-computer-graphics-text.png" alt="OpenGL Logo" width="200"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="OpenGL Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/250px-OpenGL_logo.svg.png" height="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="OpenGL Logo" height="200"/>
 </p>
