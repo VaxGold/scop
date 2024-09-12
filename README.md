@@ -21,3 +21,6 @@ Para ejecutar este proyecto, necesitas las siguientes dependencias:
 Opcionalmente, puedes usar una librería como [Assimp](http://www.assimp.org/) para manejar la carga de modelos `.obj`, pero en este ejemplo se describe cómo hacerlo manualmente.
 
 ## Instalación
+
+
+![OpenGL Logo](https://www.opengl.org/img/opengl_logo.jpg)
